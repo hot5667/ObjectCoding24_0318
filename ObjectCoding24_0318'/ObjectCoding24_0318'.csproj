@@ -41,6 +41,7 @@
     <Compile Include="Class3.cs" />
     <Compile Include="Class4.cs" />
     <Compile Include="Class5.cs" />
+    <Compile Include="Class6.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
